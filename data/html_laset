@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>speech_script</title>
+  </head>
+  <body>
+  <h1> Speech script</h1>
+  <p>시청 자막입니다.</p>
+  <table border="1">
+    <tr>
+      <tb>태그</tb>
+        <tb>속성</tb>
+
+  </body>
+</html>
